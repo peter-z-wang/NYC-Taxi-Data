@@ -26,4 +26,4 @@
 
 ### Final Project Paper Link:
 
-#### Tools Used: iPythonNotebook, WEKA, SQL
+#### Tools Used: iPythonNotebook, WEKA, SQL, Python Scripts, JSON
