@@ -17,6 +17,10 @@
    transportation service.
 
 ### Questions to be Answered and the Corresponding Knowledge Gained:
+  *What are the best neighborhoods to get a taxi?
+  *In what neighborhoods is it more viable to take a different transportation service?
+  *Do fare amounts really change based on trip distances?
+  *What affects the frequency of the pickup and dropoff locations?
 
 ### Video Demonstration Link:
 
