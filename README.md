@@ -6,7 +6,7 @@
 ### Project Description:
    This project was aimed to discover information that would be able to be applied to the underlying problem of
    predicting the best pick-up and drop-off locations as well as what the best time in the day to catch a ride 
-   in New York City. In addition, this project strives to identify useless attribute correlations that can be 
+   in New York City. In addition, this project strives to identify useful attribute correlations that can be 
    used to solve these problems such as identifying any correlation between distance traveled and fare amount to
    determine whether or not prices dictate the average distance traveled and thus dictate the most common pick-up
    and drop-off locations. Along with discovering the best pick-up and drop-off locations, this project looks at
