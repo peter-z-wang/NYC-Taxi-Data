@@ -40,10 +40,12 @@
    of distance traveled. Typically, an individual would be able to get a taxi consistently during the hours of 5-7 PM with some frequency
    of pickups in the late morning between 8-11 AM. 
 
+   A study of pickup and dropoff locations, as well as trip distances and fare amounts can provide information to taxi drivers to find neighborhoods with greatest demand to reduce down time.  A calculation of the pearson correlation coefficient provided a measurement of the linear relationship between the taxi data set attributes.  The taxi trip distance is strongly correlated to fare amounts, although further analysis on traffic congestion may provide a more accurate picture.  By identifying popular neighborhoods, taxi services can minimize the time needed to find an available passenger.
+
 ### Video Demonstration Link:
   * 
 
 ### Final Project Paper Link:
   * 
 
-#### Tools Used: iPythonNotebook, WEKA, SQL, Python Scripts, JSON
+#### Tools Used: iPythonNotebook, WEKA, SQL, Python Scripts, Numpy, Pandas, Scikit-learn, Dateutil parser, Scipy, Matplotlib, JSON
