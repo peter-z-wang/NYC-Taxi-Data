@@ -5,7 +5,7 @@ import json
 
 file = open('drop_locations.csv', 'w')
 
-with open("yellow_tripdata_2016-02.csv") as csvfile:
+with open("yellow_tripdata_2017-02.csv") as csvfile:
 	reader = csv.DictReader(csvfile)
 
 	for row in reader:
