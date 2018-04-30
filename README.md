@@ -17,21 +17,21 @@
    transportation service.
 
 ### Questions to be Answered and the Corresponding Knowledge Gained:
-  * What are the best neighborhoods to get a taxi?
-    Manhatten Midtown Center/East
-    Upper East Side North/South
-    Madison Square West
-    Times Square
-    Union Square
-  * In what neighborhoods is it more viable to take a different transportation service?
-    In areas of low pickup frequency it is suggested to find a different means for transportation. This is due to the high frequency neighborhood areas having
+  1. What are the best neighborhoods to get a taxi?
+    * Manhatten Midtown Center/East
+    * Upper East Side North/South
+    * Madison Square West
+    * Times Square
+    * Union Square
+  2. In what neighborhoods is it more viable to take a different transportation service?
+    * In areas of low pickup frequency it is suggested to find a different means for transportation. This is due to the high frequency neighborhood areas having
     taxis as their main mode of transportation. As such, taxi drivers tend to not go to areas with low pickup and dropoff frequency.
-  * Do fare amounts really change based on trip distances?
-    Correlation shows that fare amounts don't change based on distance traveled and that the linear regression model fits the distance traveled vs fare amount
+  3. Do fare amounts really change based on trip distances?
+    * Correlation shows that fare amounts don't change based on distance traveled and that the linear regression model fits the distance traveled vs fare amount
     data. Regardless of distance, fare amounts generally stay at a fixed rate. If distance is strongly correlated to fare amounts, this may be influenced by 
     trips during peak periods that would increase fares during short trips.
-  * What affects the frequency of the pickup and dropoff locations?
-    Generally, wealthy residential areas and business sectors within NYC will carry the most frequent taxi users while low income areas tend to not take a taxi.
+  4. What affects the frequency of the pickup and dropoff locations?
+    * Generally, wealthy residential areas and business sectors within NYC will carry the most frequent taxi users while low income areas tend to not take a taxi.
     Since areas in NYC are compact, the trip distance tends to be short (0-3 mi). 
 
 #### Application of Knowledge:
